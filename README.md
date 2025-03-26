@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone <repo_url>
+    git clone https://github.com/proalmaz/Bell_Integrator_Test_Task.git
     ```
 
 2. Установите зависимости:
